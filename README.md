@@ -127,8 +127,10 @@ int main() {
 
 
 ## OUTPUT
-![Alt text](<../Screenshot at 2026-03-16 15-56-08.png>)
+<img width="837" height="727" alt="image" src="https://github.com/user-attachments/assets/41a77f70-7fb1-494c-a4d3-7e9476316647" />
 
-![Alt text](<../Screenshot at 2026-03-16 15-56-55.png>)
+<img width="863" height="736" alt="image" src="https://github.com/user-attachments/assets/cb14af33-b162-49bd-8d41-39e9fc235454" />
+
+
 # RESULT:
 The program is executed successfully.
